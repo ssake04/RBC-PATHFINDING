@@ -39,29 +39,34 @@ Comparison in theory
 Comparison by practical
 This comparison is made with a random 50 x 50 grid to test the time execution.
 1) A* algorithm
-![Test 1](markdown/Astar1.png)
-![Test 2](markdown/Astar2.png)
-![Test 3](markdown/Astar3.png)
+![Astar1](https://github.com/user-attachments/assets/cdeb6c54-ca07-4754-958e-439c51684fb7)
+![Astar2](https://github.com/user-attachments/assets/0b3f69e8-733f-45a8-9907-4613a5f533fa)
+![Astar3](https://github.com/user-attachments/assets/704c6777-6abc-4469-a7c9-9fc2bd294dff)
 Average time execution -> 602.3 ms
-2) Dijkstra's algorithm
-![Test 1](markdown/Dijk1.png) 
-![Test 2](markdown/Dijk2.png) 
-![Test 3](markdown/Dijk3.png)
+
+3) Dijkstra's algorithm
+![Dijk1](https://github.com/user-attachments/assets/3a6104ba-6c49-43ff-8e9e-38b263260606)
+![Dijk2](https://github.com/user-attachments/assets/77179260-85e2-47d0-97c8-282acc843926)
+![Dijk3](https://github.com/user-attachments/assets/b332fd54-96f4-4ad5-954e-999d48482209)
 Average time execution -> 3687 ms
-3) Breadth-First Search algorithm
-![Test 1](markdown/Bfs1.png) 
-![Test 2](markdown/Bfs2.png) 
-![Test 3](markdown/Bfs3.png)
+
+5) Breadth-First Search algorithm
+![Bfs1](https://github.com/user-attachments/assets/066ab89b-f06d-429b-b444-60d1b4873d2d)
+![Bfs2](https://github.com/user-attachments/assets/886d80d6-75a6-4ca3-b0a2-b66da2dc659b)
+![Bfs3](https://github.com/user-attachments/assets/4dbd004e-c209-4d19-a6f7-95ad457180d2)
+
 Average time execution -> 1309.7 ms
 4) Greedy Best-First Search algorihtm
-![Test 1](markdown/Gbfs1.png) 
-![Test 2](markdown/Gbfs2.png) 
-![Test 3](markdown/Gbfs3.png)
+![Gbfs1](https://github.com/user-attachments/assets/a38758ae-2d56-405a-9056-6499b5f4d206)
+![Gbfs2](https://github.com/user-attachments/assets/bf420abb-1257-4483-bbcd-9a38718b51b6)
+![Gbfs3](https://github.com/user-attachments/assets/eebf61f3-6e54-49b4-85d0-33d06f06ffa3)
+
 Average time execution -> 191.7 ms
+
 5) Depth-First Search algorithm
-![Test 1](markdown/Dijk1.png) 
-![Test 2](markdown/dfs2.png) 
-![Test 3](markdown/Dfs3.png)
+![Dfs1](https://github.com/user-attachments/assets/1e626915-8724-40ed-91f0-567f1f09e789)
+![dfs2](https://github.com/user-attachments/assets/6cfed591-7031-416b-bcb5-7442aaeccf06)
+![Dfs3](https://github.com/user-attachments/assets/333a3a65-fbd6-4d6a-9cb5-8bb024426f02)
 Average time execution -> 1567 ms
 
 Time execution test, lowest to highest time by practical -> GBFS, A*, BFS, DFS, Dijakstra
